@@ -1,0 +1,19 @@
+{
+  "name": "bellatconv",
+  "version": "1.0.0",
+  "description": "A converter to transfer belarusian cyrillic text to latin text",
+  "main": "index.js",
+  "bin": {
+    "bellatconv": "./index.js"
+  },
+  "preferGlobal": true,
+  "keywords": [
+    "converter",
+    "belarus",
+    "belarusian",
+    "latin",
+    "text"
+  ],
+  "author": "Victor Karalkin",
+  "license": "ISC"
+}
